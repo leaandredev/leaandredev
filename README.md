@@ -1,7 +1,7 @@
 # 👋 Bonjour et bienvenue !
 
 Je m'appelle **Léa ANDRE**, je suis **Développeuse Fullstack Java / Angular / PHP**. 
-Forte d’une première expérience en développement PHP et récemment diplômée d’une formation intensive en Java/Angular, je suis aujourd’hui à la recherche d’une opportunité pour mettre mes compétences au service de projets concrets, utiles et bien conçus.
+Forte d’une première expérience de 6 ans en développement PHP et récemment diplômée d’une formation intensive en Java/Angular, je suis aujourd’hui à la recherche d’une opportunité pour mettre mes compétences au service de projets concrets, utiles et bien conçus.
 
 ---
 
