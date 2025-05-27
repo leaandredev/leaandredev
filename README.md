@@ -1,6 +1,7 @@
 # 👋 Bonjour et bienvenue !
 
-Je m'appelle **Léa ANDRE**, je suis **Développeuse Fullstack Java / Angular / PHP**, passionnée par le **développement web**, les **interfaces intuitives** et les **projets porteurs de sens**.
+Je m'appelle **Léa ANDRE**, je suis **Développeuse Fullstack Java / Angular / PHP**. 
+Forte d’une première expérience en développement PHP et récemment diplômée d’une formation intensive en Java/Angular, je suis aujourd’hui à la recherche d’une opportunité pour mettre mes compétences au service de projets concrets, utiles et bien conçus.
 
 ---
 
@@ -37,7 +38,6 @@ Voici quelques projets réalisés dans le cadre de ma formation :
 
 [👉 Voir le repo](https://github.com/leaandredev/P2-Telesport)
 
----
 
 ### 🏘️ **Rental App API**
 **API REST de gestion de locations de logements**  
@@ -45,7 +45,6 @@ Voici quelques projets réalisés dans le cadre de ma formation :
 
 [👉 Voir le repo](https://github.com/leaandredev/P3-RentalApi)
 
----
 
 ### 🧘‍♀️ **Yoga App**
 **Application de gestion de sessions de yoga avec tests complets**  
@@ -56,7 +55,6 @@ Voici quelques projets réalisés dans le cadre de ma formation :
 
 [👉 Voir le repo](https://github.com/leaandredev/P5-Testez-une-application-full-stack)
 
----
 
 ### 💬 **Monde De Dev**
 **Plateforme communautaire** pour les développeurs  
@@ -64,7 +62,6 @@ Voici quelques projets réalisés dans le cadre de ma formation :
 
 [👉 Voir le repo](https://github.com/leaandredev/mdd-app)
 
----
 
 ### 🚗 **YourCarYourWay**
 **Chat en temps réel** pour le support client  
